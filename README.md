@@ -71,14 +71,13 @@ Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── resume.pdf
+├── resumepdf2(6).pdf
 │
 └── images/
     ├── profile.jpg
     ├── project1.png
     ├── project2.png
     ├── project3.png
-    └── favicon.png
 
 ---
 
@@ -139,7 +138,7 @@ https://www.linkedin.com/in/irfana-e-93a9412a4/
 
 After deploying with GitHub Pages, add your portfolio link here:
 
-https://yourusername.github.io/portfolio/
+https://Irfanaelahi.github.io/portfolio/
 
 ---
 
