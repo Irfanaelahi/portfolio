@@ -71,7 +71,7 @@ Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── resumepdf2(6).pdf
+├── resumepdf2 (6).pdf
 │
 └── images/
     ├── profile.jpg
